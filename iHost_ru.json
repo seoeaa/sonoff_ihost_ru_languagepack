@@ -2737,7 +2737,7 @@
   },
   "ROOM.THIS_DEVICE_NOT_SUPPORT": {
     "Original": "Device not supported yet",
-    "Custom": "Устройство еще не поддерживается"
+    "Custom": "Не поддерживается"
   },
   "ROOM.ZIGEBEE2CUBE_TIP": {
     "Original": "Didn't find the device you wanted to add? Try to enable Zigbee2CUBE to add NON-ZigBee 3.0 standard protocol devices. ",
