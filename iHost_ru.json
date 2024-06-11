@@ -1,7 +1,7 @@
 {
   "locale": {
     "Original": "en",
-    "Custom": "англ."
+    "Custom": "ru"
   },
   "Pagination.items_per_page": {
     "Original": "/ page",
@@ -13,7 +13,7 @@
   },
   "Pagination.jump_to_confirm": {
     "Original": "confirm",
-    "Custom": "подтверждать"
+    "Custom": "подтвердить"
   },
   "Pagination.prev_page": {
     "Original": "Previous Page",
@@ -3361,7 +3361,7 @@
   },
   "SCENE.VOLUME": {
     "Original": "Volume",
-    "Custom": "Объем"
+    "Custom": "Громкость"
   },
   "SCENE.TTS_RUNNING_ERROR": {
     "Original": " {name} is running error, please check",
