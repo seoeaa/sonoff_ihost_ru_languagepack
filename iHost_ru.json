@@ -3845,7 +3845,7 @@
   },
   "SETTING.VOLUME": {
     "Original": "Volume",
-    "Custom": "Объем"
+    "Custom": "Громкость"
   },
   "SETTING.DEVICE_INFO": {
     "Original": "Device Info",
@@ -5489,7 +5489,7 @@
   },
   "DOCKER.VOLUME": {
     "Original": "Volume",
-    "Custom": "Объем"
+    "Custom": "Громкость"
   },
   "DOCKER.ADD_SUCCESS": {
     "Original": "Success",
