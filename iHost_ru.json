@@ -2193,7 +2193,7 @@
   },
   "ROOM.END_DEVICE": {
     "Original": "End Device",
-    "Custom": "Конечное устройство"
+    "Custom": "Устройство"
   },
   "ROOM.ROUTER_DEVICE": {
     "Original": "Router Device",
