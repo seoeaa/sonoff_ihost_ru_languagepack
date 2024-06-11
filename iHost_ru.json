@@ -1381,7 +1381,7 @@
   },
   "ROOM.DEVICE_DETAIL.VOLUME": {
     "Original": "Volume",
-    "Custom": "Объем"
+    "Custom": "Громкость"
   },
   "ROOM.DEVICE_DETAIL.SUCCESS": {
     "Original": "Success",
@@ -3853,7 +3853,7 @@
   },
   "SETTING.DEVICE_ID": {
     "Original": "Device ID",
-    "Custom": "Идентификатор устройства"
+    "Custom": "ID устройства"
   },
   "SETTING.FIRMWARE_VERSION": {
     "Original": "eWeLink CUBE Version",
@@ -3889,7 +3889,7 @@
   },
   "SETTING.POWER_ON_TIME": {
     "Original": "Power-on Time",
-    "Custom": "Время включения питания"
+    "Custom": "Время включения"
   },
   "SETTING.CURRENT_PASSWORD": {
     "Original": "Current Password",
@@ -4837,11 +4837,11 @@
   },
   "CAST.CAST": {
     "Original": "Cast",
-    "Custom": "В ролях"
+    "Custom": "Панель управления"
   },
   "CAST.NAME": {
     "Original": "Your Cast Name",
-    "Custom": "Ваше актерское имя"
+    "Custom": "Название панели"
   },
   "CAST.WIDGET": {
     "Original": "Widgets",
