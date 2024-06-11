@@ -3597,7 +3597,7 @@
   },
   "SECURITY.SMART_SECURITY": {
     "Original": "Smart Security",
-    "Custom": "Интеллектуальная система безопасности"
+    "Custom": "Система безопасности"
   },
   "SECURITY.SET_DEFAULT_MODE": {
     "Original": "Set Default Mode",
