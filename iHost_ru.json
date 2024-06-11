@@ -3121,11 +3121,11 @@
   },
   "SCENE.OFF": {
     "Original": "Off",
-    "Custom": "Прочь"
+    "Custom": "Выключен"
   },
   "SCENE.LIGHT_OPEN": {
     "Original": "On",
-    "Custom": "На"
+    "Custom": "Включен"
   },
   "SCENE.DELAY": {
     "Original": "Delay",
