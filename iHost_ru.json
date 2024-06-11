@@ -4517,7 +4517,7 @@
   },
   "COMMON.DEVICE_ID": {
     "Original": "Device ID",
-    "Custom": "Идентификатор устройства"
+    "Custom": "ID устройства"
   },
   "COMMON.HOME": {
     "Original": "Home",
