@@ -3885,7 +3885,7 @@
   },
   "SETTING.CPU_TEM": {
     "Original": "CPU Temperature",
-    "Custom": "Температура процессора"
+    "Custom": "Температура ЦП"
   },
   "SETTING.POWER_ON_TIME": {
     "Original": "Power-on Time",
