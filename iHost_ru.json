@@ -4213,7 +4213,7 @@
   },
   "SETTING.LOG_OUT": {
     "Original": "Log Out",
-    "Custom": "выйти из системы"
+    "Custom": "Выйти"
   },
   "SETTING.FORMAT_FAILED": {
     "Original": "Format failed",
