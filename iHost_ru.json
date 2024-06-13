@@ -2609,7 +2609,7 @@
   },
   "ROOM.UPDATE_TIME": {
     "Original": "Last refreshedпјљ",
-    "Custom": "Последнее обновление"
+    "Custom": "Последнее обновление "
   },
   "ROOM.REFRESHING_TIME": {
     "Original": "Refreshing, this may take {time}, the latest map will be displayed here after a successful refresh.",
