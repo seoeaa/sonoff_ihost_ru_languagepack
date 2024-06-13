@@ -4345,7 +4345,7 @@
   },
   "SETTING.CUSTOM_LANGUAGE": {
     "Original": "Custom",
-    "Custom": "Обычай"
+    "Custom": "Русский"
   },
   "SETTING.CUSTOM_LANGUAGE_TIP.STEP_1": {
     "Original": "Step 1: Click the \"Download\" button to download the language template file in json format.",
