@@ -2733,7 +2733,7 @@
   },
   "ROOM.NOT_SUPPORT_NOW": {
     "Original": "Not supported yet",
-    "Custom": "Пока не поддерживается"
+    "Custom": "Не поддерживается"
   },
   "ROOM.THIS_DEVICE_NOT_SUPPORT": {
     "Original": "Device not supported yet",
