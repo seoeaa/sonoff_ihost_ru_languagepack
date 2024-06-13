@@ -2021,7 +2021,7 @@
   },
   "ROOM.SWITCH_OFF": {
     "Original": "Off",
-    "Custom": "Прочь"
+    "Custom": "Выключен"
   },
   "ROOM.SWITCH_OFF_ON": {
     "Original": "Off-On",
