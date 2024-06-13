@@ -3833,7 +3833,7 @@
   },
   "SETTING.CHANGE_PASSWORD": {
     "Original": "Change Password",
-    "Custom": "поменять пароль"
+    "Custom": "Изменить пароль"
   },
   "SETTING.DEVICE_NAME": {
     "Original": "Device Name",
