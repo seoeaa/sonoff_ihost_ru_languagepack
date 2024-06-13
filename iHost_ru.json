@@ -3877,7 +3877,7 @@
   },
   "SETTING.CPU": {
     "Original": "CPU",
-    "Custom": "ЦП"
+    "Custom": "Нагрузка ЦП"
   },
   "SETTING.MEMORY": {
     "Original": "Memory",
