@@ -2629,7 +2629,7 @@
   },
   "ROOM.ENDDEVICE": {
     "Original": "End-Device",
-    "Custom": "Конечное устройство"
+    "Custom": "Устройство"
   },
   "ROOM.TIME_UNIT_DAY": {
     "Original": "Time/(day)",
