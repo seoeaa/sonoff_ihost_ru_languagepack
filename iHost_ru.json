@@ -3653,7 +3653,7 @@
   },
   "SECURITY.CUSTOM": {
     "Original": "Custom",
-    "Custom": "Обычай"
+    "Custom": "Настроить"
   },
   "SECURITY.SUB_DEVICES": {
     "Original": "Sub-devices",
