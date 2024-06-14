@@ -1057,7 +1057,7 @@
   },
   "ROOM.ADD_DEVICES.PAIR": {
     "Original": "Pair",
-    "Custom": "Пара"
+    "Custom": "Добавить"
   },
   "ROOM.ADD_DEVICES.MAX_ADVICES": {
     "Original": "Max end devices added",
