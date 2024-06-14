@@ -2289,11 +2289,11 @@
   },
   "ROOM.HAVE_SOMEBODY_MOVE_AND_BRIGHT": {
     "Original": "Motion Detected and Ambient Light is Bright",
-    "Custom": "Обнаружено движение, и окружающий свет яркий"
+    "Custom": "Обнаружено движение, и свет яркий"
   },
   "ROOM.HAVE_SOMEBODY_MOVE_AND_DARK": {
     "Original": "Motion Detected and Ambient Light is Dim",
-    "Custom": "Обнаружено движение, а окружающий свет тусклый"
+    "Custom": "Обнаружено движение, свет тусклый"
   },
   "ROOM.CLOSED": {
     "Original": "Closed",
