@@ -3233,7 +3233,7 @@
   },
   "SCENE.MON": {
     "Original": "Mon",
-    "Custom": "Понедельник"
+    "Custom": "Пн"
   },
   "SCENE.TUE": {
     "Original": "Tue",
@@ -3241,7 +3241,7 @@
   },
   "SCENE.WED": {
     "Original": "Wed",
-    "Custom": "Жениться"
+    "Custom": "Ср"
   },
   "SCENE.THU": {
     "Original": "Thu",
@@ -3257,7 +3257,7 @@
   },
   "SCENE.SUN": {
     "Original": "Sun",
-    "Custom": "Солнце"
+    "Custom": "Вс"
   },
   "SCENE.NEXT_DAY": {
     "Original": "(next day)",
