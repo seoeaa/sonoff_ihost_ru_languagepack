@@ -1665,7 +1665,7 @@
   },
   "ROOM.DEVICE_DETAIL.MON": {
     "Original": "Mon",
-    "Custom": "Понедельник"
+    "Custom": "Пн"
   },
   "ROOM.DEVICE_DETAIL.TUE": {
     "Original": "Tue",
@@ -1673,7 +1673,7 @@
   },
   "ROOM.DEVICE_DETAIL.WED": {
     "Original": "Wed",
-    "Custom": "Жениться"
+    "Custom": "Ср"
   },
   "ROOM.DEVICE_DETAIL.THU": {
     "Original": "Thu",
@@ -1689,7 +1689,7 @@
   },
   "ROOM.DEVICE_DETAIL.SUN": {
     "Original": "Sun",
-    "Custom": "Солнце"
+    "Custom": "Вс"
   },
   "ROOM.DEVICE_DETAIL.SOMETIME_AFTER": {
     "Original": "{hour} h and {minute} min later",
@@ -4557,7 +4557,7 @@
   },
   "COMMON.MON": {
     "Original": "Mon",
-    "Custom": "Понедельник"
+    "Custom": "Пн"
   },
   "COMMON.TUE": {
     "Original": "Tue",
@@ -4565,7 +4565,7 @@
   },
   "COMMON.WED": {
     "Original": "Wed",
-    "Custom": "Жениться"
+    "Custom": "Ср"
   },
   "COMMON.THU": {
     "Original": "Thu",
@@ -4581,7 +4581,7 @@
   },
   "COMMON.SUN": {
     "Original": "Sun",
-    "Custom": "Солнце"
+    "Custom": "Вс"
   },
   "COMMON.ACTION": {
     "Original": "Action",
