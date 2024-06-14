@@ -1045,7 +1045,7 @@
   },
   "ROOM.ADD_DEVICES.USER_MANUAL_MODE": {
     "Original": "Please refer to the user manual and set the device in paring mode.",
-    "Custom": "Пожалуйста, обратитесь к руководству пользователя и переведите устройство в режим очистки овощей."
+    "Custom": "Пожалуйста, обратитесь к руководству пользователя и переведите устройство в режим сопряжения."
   },
   "ROOM.ADD_DEVICES.UP_TO_128": {
     "Original": "Add up to 128 devices in total.",
