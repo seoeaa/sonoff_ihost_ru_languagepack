@@ -1225,7 +1225,7 @@
   },
   "ROOM.DEVICE_DETAIL.SMART_SECURITY_DETAILS": {
     "Original": "Smart Security Details",
-    "Custom": "Интеллектуальные сведения о безопасности"
+    "Custom": "Сведения о безопасности"
   },
   "ROOM.DEVICE_DETAIL.CURRENT_VERSION": {
     "Original": "Current Version",
@@ -3089,7 +3089,7 @@
   },
   "SCENE.SMART_DEVICES": {
     "Original": "Smart Devices",
-    "Custom": "Интеллектуальные устройства"
+    "Custom": "Устройства"
   },
   "SCENE.TIMER": {
     "Original": "Timer",
